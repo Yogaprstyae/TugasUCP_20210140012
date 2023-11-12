@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TugasUCP</string>
+    <string name="mataram">Mataram</string>
+    <string name="yogyakarta">Yogyakarta</string>
+    <string name="jakarta">Jakarta</string>
+    <string name="batam">Batam</string>
+    <string name="surakarta">Surakarta</string>
+    <string name="jeruk">Jeruk</string>
+    <string name="apel">Apel</string>
+    <string name="mangga">Mangga</string>
+    <string name="pisang">Pisang</string>
+    <string name="anggur">Anggur</string>
+    <string name="kota">Kota</string>
+    <string name="buah">Buah</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="next">Lanjut</string>
+    <string name="back_button">Kembali</string>
+    <string name="submit">Submit</string>
+</resources>
